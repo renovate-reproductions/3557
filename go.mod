@@ -1,6 +1,6 @@
 module github.com/MaronHatoum/renovate-3557
 
-go 1.14
+go 1.19
 
 require (
 	github.com/DataDog/datadog-go v0.0.0-20190409160158-8d102451dfbe
