@@ -2,7 +2,7 @@
   "packageRules": [
     {
       "matchPackageNames": ["github.com/DataDog/datadog-go"],
-      "allowedVersions": "<2.2.0 "
+      "allowedVersions": "<=v2.2.0 "
     }
   ]
   
