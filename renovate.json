@@ -1,2 +1,9 @@
 {
+  "packageRules": [
+    {
+      "matchPackageNames": ["datadog-go"],
+      "allowedVersions": "<=v2.2.0 "
+    }
+  ]
+  
 }
