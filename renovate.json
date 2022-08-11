@@ -1,8 +1,8 @@
 {
   "packageRules": [
     {
-      "matchPackageNames": ["datadog-go"],
-      "allowedVersions": "<=v2.2.0 "
+      "matchPackageNames": ["github.com/DataDog/datadog-go"],
+      "allowedVersions": "<2.2.0 "
     }
   ]
   
